@@ -29,5 +29,5 @@
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://readme.adarshpawar29.com?section=main&theme=dark">
-  <img src="https://readme.adarshpawar29.com?section=main&theme=light" alt="I'm Adarsh. A Indian-based internet enthusiast, creative technologist and maker of digital ephemera." width="100%" height="290" align="left">
+  <img src="https://readme.adarshpawar29.com?section=main&theme=light" alt="I'm Adarsh. India-based internet enthusiast, creative technologist and maker of digital ephemera." width="100%" height="290" align="left">
 </picture>
