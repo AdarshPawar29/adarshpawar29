@@ -4,8 +4,8 @@
 </picture>
 <a href="https://adarshpawar.com">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme.adarshpawar.com?section=link-website&theme=dark" label="Visit">
-    <img src="https://readme.adarshpawar.com?section=link-website&theme=light&i=0" alt="visit my website" width="100" height="18px" align="left">
+    <source media="(prefers-color-scheme: dark)" srcset="https://adarshpawar29.adarshpawar28.workers.dev?section=link-website&theme=dark" label="Visit">
+    <img src="https://adarshpawar29.adarshpawar28.workers.dev?section=link-website&theme=light&i=0" alt="visit my website" width="100" height="18px" align="left">
   </picture>
 </a>
 <img src="data:null;," width="100%" height="0" align="left" alt="">
