@@ -121,18 +121,10 @@ Active contributor to accessibility tools, educational tech, and supply chain ma
 <div align="center">
   
   <a href="https://github.com/adarshpawar29">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adarshpawar29&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&border_radius=10"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adarshpawar29&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&border_radius=10&cache_seconds=86400"/>
   </a>
   <a href="https://github.com/adarshpawar29">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarshpawar29&layout=compact&langs_count=10&theme=radical&hide_border=true&border_radius=10"/>
-  </a>
-  
-</div>
-
-<div align="center">
-  
-  <a href="https://github.com/adarshpawar29">
-    <img src="https://streak-stats.demolab.com/?user=adarshpawar29&theme=radical&hide_border=true&border_radius=10" alt="GitHub Streak" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarshpawar29&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=10&cache_seconds=86400"/>
   </a>
   
 </div>
@@ -140,7 +132,7 @@ Active contributor to accessibility tools, educational tech, and supply chain ma
 <div align="center">
   
   <a href="https://github.com/adarshpawar29">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=adarshpawar29&theme=react-dark&hide_border=true&bg_color=0d1117&point=ff6b6b&line=45b7d1&area=true&area_color=45b7d1" alt="Contribution Activity Graph"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=adarshpawar29&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
   </a>
   
 </div>
@@ -148,7 +140,7 @@ Active contributor to accessibility tools, educational tech, and supply chain ma
 <div align="center">
   
   <a href="https://github.com/adarshpawar29">
-    <img src="https://github-profile-trophy.vercel.app/?username=adarshpawar29&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=adarshpawar29&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=ffffff&area=true&hide_title=true" alt="Contribution Activity Graph"/>
   </a>
   
 </div>
@@ -156,7 +148,15 @@ Active contributor to accessibility tools, educational tech, and supply chain ma
 <div align="center">
   
   <a href="https://github.com/adarshpawar29">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=adarshpawar29&theme=radical&hide_border=true&border_radius=10" alt="WakaTime Stats" />
+    <img src="https://github-profile-trophy.vercel.app/?username=adarshpawar29&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
+  </a>
+  
+</div>
+
+<div align="center">
+  
+  <a href="https://github.com/adarshpawar29">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=adarshpawar29&repo=url-object-converter&theme=tokyonight&hide_border=true&border_radius=10" alt="Pinned Repository" />
   </a>
   
 </div>
@@ -167,108 +167,12 @@ Active contributor to accessibility tools, educational tech, and supply chain ma
 
 <div align="center">
 
-<table>
-<tr>
-<td width="25%" align="center">
-<img src="https://img.shields.io/badge/Accessibility-♿-4CAF50?style=for-the-badge&labelColor=black&color=4CAF50"/>
+![Accessibility](https://img.shields.io/badge/♿_Web_Accessibility-4CAF50?style=for-the-badge&logo=accessibility&logoColor=white)
+![Full Stack](https://img.shields.io/badge/💻_Full_Stack_Development-2196F3?style=for-the-badge&logo=code&logoColor=white)
+![Agile](https://img.shields.io/badge/📋_Agile_Practices-FF9800?style=for-the-badge&logo=agile&logoColor=white)
+![Industry](https://img.shields.io/badge/🏢_Industry_Focus-9C27B0?style=for-the-badge&logo=building&logoColor=white)
 
-**🔍 Web Accessibility**
-
-- WCAG 2.1/2.2 Compliance
-- ARIA Implementation
-- Screen Reader Testing
-- Keyboard Navigation
-- Color Contrast Auditing
-
-</td>
-<td width="25%" align="center">
-<img src="https://img.shields.io/badge/Development-💻-2196F3?style=for-the-badge&labelColor=black&color=2196F3"/>
-
-**⚡ Full Stack Development**
-
-- Modern Frontend Frameworks
-- RESTful API Design
-- Database Architecture
-- Performance Optimization
-- Code Quality & Testing
-
-</td>
-<td width="25%" align="center">
-<img src="https://img.shields.io/badge/Methodologies-📋-FF9800?style=for-the-badge&labelColor=black&color=FF9800"/>
-
-**🚀 Agile Practices**
-
-- Scrum Master Experience
-- DevOps Integration
-- CI/CD Pipelines
-- Code Review Processes
-- Team Leadership
-
-</td>
-<td width="25%" align="center">
-<img src="https://img.shields.io/badge/Domains-🎯-9C27B0?style=for-the-badge&labelColor=black&color=9C27B0"/>
-
-**🏢 Industry Focus**
-
-- Educational Technology
-- Supply Chain Management
-- E-commerce Solutions
-- Healthcare Systems
-- Fintech Applications
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<div align="center">
-
-### 💡 Core Expertise Visualization
-
-```mermaid
-graph LR
-    %% Compact radial layout for mobile
-    A((🎯 AP))
-    
-    %% Core skills with shorter names
-    A --> B[♿ A11y]
-    A --> C[💻 Dev]
-    A --> D[📋 Agile]
-    A --> E[🏢 Domain]
-    
-    %% Key skills - compact
-    B --> B1[WCAG]
-    B --> B2[ARIA]
-    C --> C1[React]
-    C --> C2[Node]
-    D --> D1[Scrum]
-    D --> D2[DevOps]
-    E --> E1[EdTech]
-    E --> E2[Supply]
-
-    %% Compact styling
-    style A fill:#ff6b6b,stroke:#333,stroke-width:3px,color:#fff
-    style B fill:#4ecdc4,stroke:#333,stroke-width:1px,color:#fff
-    style C fill:#45b7d1,stroke:#333,stroke-width:1px,color:#fff
-    style D fill:#f9ca24,stroke:#333,stroke-width:1px,color:#000
-    style E fill:#6c5ce7,stroke:#333,stroke-width:1px,color:#fff
-    
-    %% Ultra-thin branches for clean look
-    linkStyle default stroke-width:0.5px
-    linkStyle 0 stroke:#4ecdc4,stroke-width:0.5px
-    linkStyle 1 stroke:#45b7d1,stroke-width:0.5px
-    linkStyle 2 stroke:#f9ca24,stroke-width:0.5px
-    linkStyle 3 stroke:#6c5ce7,stroke-width:0.5px
-    linkStyle 4 stroke:#4ecdc4,stroke-width:0.5px
-    linkStyle 5 stroke:#4ecdc4,stroke-width:0.5px
-    linkStyle 6 stroke:#45b7d1,stroke-width:0.5px
-    linkStyle 7 stroke:#45b7d1,stroke-width:0.5px
-    linkStyle 8 stroke:#f9ca24,stroke-width:0.5px
-    linkStyle 9 stroke:#f9ca24,stroke-width:0.5px
-    linkStyle 10 stroke:#6c5ce7,stroke-width:0.5px
-    linkStyle 11 stroke:#6c5ce7,stroke-width:0.5px
-```
+**WCAG Compliance** • **ARIA Standards** • **React/Vue/Angular** • **Node.js/Django** • **Scrum/Kanban** • **DevOps/CI-CD** • **EdTech Solutions** • **Supply Chain**
 
 </div>
 
