@@ -132,7 +132,7 @@ Active contributor to accessibility tools, educational tech, and supply chain ma
 <div align="center">
   
   <a href="https://github.com/adarshpawar29">
-    <img src="https://streak-stats.demolab.com/?user=adarshpawar29&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com/adarshpawar29?theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   </a>
   
 </div>
