@@ -153,14 +153,6 @@ Active contributor to accessibility tools, educational tech, and supply chain ma
   
 </div>
 
-<div align="center">
-  
-  <a href="https://github.com/adarshpawar29">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=adarshpawar29&repo=url-object-converter&theme=tokyonight&hide_border=true&border_radius=10" alt="Pinned Repository" />
-  </a>
-  
-</div>
-
 ---
 
 ### 🎯 Specializations
