@@ -119,24 +119,46 @@ Active contributor to accessibility tools, educational tech, and supply chain ma
 ### 📊 GitHub Analytics
 
 <div align="center">
+  
   <a href="https://github.com/adarshpawar29">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adarshpawar29&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adarshpawar29&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&border_radius=10"/>
   </a>
   <a href="https://github.com/adarshpawar29">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarshpawar29&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarshpawar29&layout=compact&langs_count=10&theme=radical&hide_border=true&border_radius=10"/>
   </a>
+  
 </div>
 
 <div align="center">
+  
   <a href="https://github.com/adarshpawar29">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=adarshpawar29&theme=radical&hide_border=true" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com/?user=adarshpawar29&theme=radical&hide_border=true&border_radius=10" alt="GitHub Streak" />
   </a>
+  
 </div>
 
 <div align="center">
+  
   <a href="https://github.com/adarshpawar29">
-    <img src="https://github-profile-trophy.vercel.app/?username=adarshpawar29&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=adarshpawar29&theme=react-dark&hide_border=true&bg_color=0d1117&point=ff6b6b&line=45b7d1&area=true&area_color=45b7d1" alt="Contribution Activity Graph"/>
   </a>
+  
+</div>
+
+<div align="center">
+  
+  <a href="https://github.com/adarshpawar29">
+    <img src="https://github-profile-trophy.vercel.app/?username=adarshpawar29&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
+  </a>
+  
+</div>
+
+<div align="center">
+  
+  <a href="https://github.com/adarshpawar29">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=adarshpawar29&theme=radical&hide_border=true&border_radius=10" alt="WakaTime Stats" />
+  </a>
+  
 </div>
 
 ---
@@ -227,21 +249,33 @@ graph TD
     E --> E2[Supply Chain]
     E --> E3[E-commerce]
 
+    %% Node Styling
     style A fill:#ff6b6b,stroke:#333,stroke-width:3px,color:#fff
     style B fill:#4ecdc4,stroke:#333,stroke-width:2px,color:#fff
     style C fill:#45b7d1,stroke:#333,stroke-width:2px,color:#fff
     style D fill:#f9ca24,stroke:#333,stroke-width:2px,color:#000
     style E fill:#6c5ce7,stroke:#333,stroke-width:2px,color:#fff
+
+    %% Link Styling - Thinner branches
+    linkStyle default stroke-width:1px
+    linkStyle 0 stroke:#4ecdc4,stroke-width:1px
+    linkStyle 1 stroke:#45b7d1,stroke-width:1px
+    linkStyle 2 stroke:#f9ca24,stroke-width:1px
+    linkStyle 3 stroke:#6c5ce7,stroke-width:1px
+    linkStyle 4 stroke:#4ecdc4,stroke-width:1px
+    linkStyle 5 stroke:#4ecdc4,stroke-width:1px
+    linkStyle 6 stroke:#4ecdc4,stroke-width:1px
+    linkStyle 7 stroke:#45b7d1,stroke-width:1px
+    linkStyle 8 stroke:#45b7d1,stroke-width:1px
+    linkStyle 9 stroke:#45b7d1,stroke-width:1px
+    linkStyle 10 stroke:#f9ca24,stroke-width:1px
+    linkStyle 11 stroke:#f9ca24,stroke-width:1px
+    linkStyle 12 stroke:#f9ca24,stroke-width:1px
+    linkStyle 13 stroke:#6c5ce7,stroke-width:1px
+    linkStyle 14 stroke:#6c5ce7,stroke-width:1px
+    linkStyle 15 stroke:#6c5ce7,stroke-width:1px
 ```
 
-</div>
-
----
-
-### 📈 Contribution Activity
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=adarshpawar29&theme=react-dark&hide_border=true" width="100%"/>
 </div>
 
 ---
