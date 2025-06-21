@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Adarsh Pawar
 
-## 🚀 Creative Technologist & Internet Enthusiast
+## 🪄 Full-Stack Developer & Accessibility Advocate
 
 ![Profile Views](https://komarev.com/ghpvc/?username=adarshpawar29&color=blueviolet&style=flat-square&label=Profile+Views)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adarshpawar28)
@@ -132,7 +132,7 @@ Active contributor to accessibility tools, educational tech, and supply chain ma
 <div align="center">
   
   <a href="https://github.com/adarshpawar29">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=adarshpawar29&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com/?user=adarshpawar29&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
   </a>
   
 </div>
