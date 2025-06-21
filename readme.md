@@ -119,38 +119,122 @@ Active contributor to accessibility tools, educational tech, and supply chain ma
 ### 📊 GitHub Analytics
 
 <div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=adarshpawar29&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarshpawar29&layout=compact&langs_count=7&theme=radical"/>
+  <a href="https://github.com/adarshpawar29">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adarshpawar29&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
+  </a>
+  <a href="https://github.com/adarshpawar29">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarshpawar29&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
+  </a>
 </div>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=adarshpawar29&theme=radical" alt="GitHub Streak" />
+  <a href="https://github.com/adarshpawar29">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=adarshpawar29&theme=radical&hide_border=true" alt="GitHub Streak" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/adarshpawar29">
+    <img src="https://github-profile-trophy.vercel.app/?username=adarshpawar29&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
+  </a>
 </div>
 
 ---
 
 ### 🎯 Specializations
 
+<div align="center">
+
+<table>
+<tr>
+<td width="25%" align="center">
+<img src="https://img.shields.io/badge/Accessibility-♿-4CAF50?style=for-the-badge&labelColor=black&color=4CAF50"/>
+
+**🔍 Web Accessibility**
+
+- WCAG 2.1/2.2 Compliance
+- ARIA Implementation
+- Screen Reader Testing
+- Keyboard Navigation
+- Color Contrast Auditing
+
+</td>
+<td width="25%" align="center">
+<img src="https://img.shields.io/badge/Development-💻-2196F3?style=for-the-badge&labelColor=black&color=2196F3"/>
+
+**⚡ Full Stack Development**
+
+- Modern Frontend Frameworks
+- RESTful API Design
+- Database Architecture
+- Performance Optimization
+- Code Quality & Testing
+
+</td>
+<td width="25%" align="center">
+<img src="https://img.shields.io/badge/Methodologies-📋-FF9800?style=for-the-badge&labelColor=black&color=FF9800"/>
+
+**🚀 Agile Practices**
+
+- Scrum Master Experience
+- DevOps Integration
+- CI/CD Pipelines
+- Code Review Processes
+- Team Leadership
+
+</td>
+<td width="25%" align="center">
+<img src="https://img.shields.io/badge/Domains-🎯-9C27B0?style=for-the-badge&labelColor=black&color=9C27B0"/>
+
+**🏢 Industry Focus**
+
+- Educational Technology
+- Supply Chain Management
+- E-commerce Solutions
+- Healthcare Systems
+- Fintech Applications
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<div align="center">
+
+### 💡 Core Expertise Visualization
+
 ```mermaid
-mindmap
-  root((Adarsh))
-    Accessibility
-      WCAG Compliance
-      ARIA Implementation
-      Screen Reader Testing
-    Development
-      Frontend Frameworks
-      Backend APIs
-      Database Design
-    Methodologies
-      Scrum/Agile
-      DevOps
-      Code Reviews
-    Domains
-      EdTech
-      Supply Chain
-      E-commerce
+graph TD
+    A[🎯 Adarsh Pawar] --> B[♿ Accessibility Expert]
+    A --> C[💻 Full-Stack Developer]
+    A --> D[📋 Agile Practitioner]
+    A --> E[🏢 Domain Specialist]
+
+    B --> B1[WCAG Compliance]
+    B --> B2[ARIA Standards]
+    B --> B3[Screen Readers]
+
+    C --> C1[React/Vue/Angular]
+    C --> C2[Node.js/Django]
+    C --> C3[PostgreSQL/MongoDB]
+
+    D --> D1[Scrum/Kanban]
+    D --> D2[DevOps/CI-CD]
+    D --> D3[Code Reviews]
+
+    E --> E1[EdTech Solutions]
+    E --> E2[Supply Chain]
+    E --> E3[E-commerce]
+
+    style A fill:#ff6b6b,stroke:#333,stroke-width:3px,color:#fff
+    style B fill:#4ecdc4,stroke:#333,stroke-width:2px,color:#fff
+    style C fill:#45b7d1,stroke:#333,stroke-width:2px,color:#fff
+    style D fill:#f9ca24,stroke:#333,stroke-width:2px,color:#000
+    style E fill:#6c5ce7,stroke:#333,stroke-width:2px,color:#fff
 ```
+
+</div>
 
 ---
 
