@@ -168,24 +168,53 @@ Active contributor to accessibility tools, educational tech, and supply chain ma
 <div align="center">
 
 ```mermaid
-mindmap
-  root((🎯 Adarsh Pawar))
-    ♿ Accessibility
-      WCAG Compliance
-      ARIA Standards
-      Screen Readers
-    💻 Full Stack
-      React/Vue/Angular
-      Node.js/Django
-      PostgreSQL/AWS
-    📋 Agile Practices
-      Scrum/Kanban
-      DevOps/CI-CD
-      Code Reviews
-    🏢 Industry Focus
-      EdTech Solutions
-      Supply Chain
-      E-commerce
+graph TD
+    A((🎯 Adarsh Pawar)) --> B[♿ Accessibility]
+    A --> C[💻 Full Stack]
+    A --> D[📋 Agile Practices]
+    A --> E[🏢 Industry Focus]
+
+    B --> B1[WCAG Compliance]
+    B --> B2[ARIA Standards]
+    B --> B3[Screen Readers]
+
+    C --> C1[React/Vue/Angular]
+    C --> C2[Node.js/Django]
+    C --> C3[PostgreSQL/AWS]
+
+    D --> D1[Scrum/Kanban]
+    D --> D2[DevOps/CI-CD]
+    D --> D3[Code Reviews]
+
+    E --> E1[EdTech Solutions]
+    E --> E2[Supply Chain]
+    E --> E3[E-commerce]
+
+    %% Node Styling
+    style A fill:#ff6b6b,stroke:#333,stroke-width:2px,color:#fff
+    style B fill:#4ecdc4,stroke:#333,stroke-width:1px,color:#fff
+    style C fill:#45b7d1,stroke:#333,stroke-width:1px,color:#fff
+    style D fill:#f9ca24,stroke:#333,stroke-width:1px,color:#000
+    style E fill:#6c5ce7,stroke:#333,stroke-width:1px,color:#fff
+
+    %% Thin Branch Styling
+    linkStyle default stroke-width:0.5px,stroke:#999
+    linkStyle 0 stroke:#4ecdc4,stroke-width:0.5px
+    linkStyle 1 stroke:#45b7d1,stroke-width:0.5px
+    linkStyle 2 stroke:#f9ca24,stroke-width:0.5px
+    linkStyle 3 stroke:#6c5ce7,stroke-width:0.5px
+    linkStyle 4 stroke:#4ecdc4,stroke-width:0.5px
+    linkStyle 5 stroke:#4ecdc4,stroke-width:0.5px
+    linkStyle 6 stroke:#4ecdc4,stroke-width:0.5px
+    linkStyle 7 stroke:#45b7d1,stroke-width:0.5px
+    linkStyle 8 stroke:#45b7d1,stroke-width:0.5px
+    linkStyle 9 stroke:#45b7d1,stroke-width:0.5px
+    linkStyle 10 stroke:#f9ca24,stroke-width:0.5px
+    linkStyle 11 stroke:#f9ca24,stroke-width:0.5px
+    linkStyle 12 stroke:#f9ca24,stroke-width:0.5px
+    linkStyle 13 stroke:#6c5ce7,stroke-width:0.5px
+    linkStyle 14 stroke:#6c5ce7,stroke-width:0.5px
+    linkStyle 15 stroke:#6c5ce7,stroke-width:0.5px
 ```
 
 </div>
