@@ -228,51 +228,81 @@ Active contributor to accessibility tools, educational tech, and supply chain ma
 
 ```mermaid
 graph TD
-    A[🎯 Adarsh Pawar] --> B[♿ Accessibility Expert]
-    A --> C[💻 Full-Stack Developer]
-    A --> D[📋 Agile Practitioner]
-    A --> E[🏢 Domain Specialist]
+    %% Central node with radial branches
+    A((🎯 Adarsh Pawar))
 
-    B --> B1[WCAG Compliance]
-    B --> B2[ARIA Standards]
-    B --> B3[Screen Readers]
+    %% Top branches - Accessibility
+    A --> B1[WCAG Compliance]
+    A --> B2[ARIA Standards]
+    A --> B3[Screen Readers]
 
-    C --> C1[React/Vue/Angular]
-    C --> C2[Node.js/Django]
-    C --> C3[PostgreSQL/MongoDB]
+    %% Right branches - Full Stack
+    A --> C1[React/Vue/Angular]
+    A --> C2[Node.js/Django]
+    A --> C3[PostgreSQL/AWS]
 
-    D --> D1[Scrum/Kanban]
-    D --> D2[DevOps/CI-CD]
-    D --> D3[Code Reviews]
+    %% Bottom branches - Agile
+    A --> D1[Scrum/Kanban]
+    A --> D2[DevOps/CI-CD]
+    A --> D3[Code Reviews]
 
-    E --> E1[EdTech Solutions]
-    E --> E2[Supply Chain]
-    E --> E3[E-commerce]
+    %% Left branches - Industry
+    A --> E1[EdTech Solutions]
+    A --> E2[Supply Chain]
+    A --> E3[E-commerce]
 
-    %% Node Styling
-    style A fill:#ff6b6b,stroke:#333,stroke-width:3px,color:#fff
-    style B fill:#4ecdc4,stroke:#333,stroke-width:2px,color:#fff
-    style C fill:#45b7d1,stroke:#333,stroke-width:2px,color:#fff
-    style D fill:#f9ca24,stroke:#333,stroke-width:2px,color:#000
-    style E fill:#6c5ce7,stroke:#333,stroke-width:2px,color:#fff
+    %% Additional skills radiating outward
+    A --> F1[♿ Accessibility Expert]
+    A --> F2[💻 Full-Stack Developer]
+    A --> F3[📋 Agile Practitioner]
+    A --> F4[🏢 Domain Specialist]
 
-    %% Ultra-Thin Branch Styling
+    %% Node Styling - Central node prominent
+    style A fill:#ff6b6b,stroke:#333,stroke-width:4px,color:#fff
+
+    %% Accessibility nodes
+    style B1 fill:#4ecdc4,stroke:#333,stroke-width:1px,color:#fff
+    style B2 fill:#4ecdc4,stroke:#333,stroke-width:1px,color:#fff
+    style B3 fill:#4ecdc4,stroke:#333,stroke-width:1px,color:#fff
+
+    %% Full Stack nodes
+    style C1 fill:#45b7d1,stroke:#333,stroke-width:1px,color:#fff
+    style C2 fill:#45b7d1,stroke:#333,stroke-width:1px,color:#fff
+    style C3 fill:#45b7d1,stroke:#333,stroke-width:1px,color:#fff
+
+    %% Agile nodes
+    style D1 fill:#f9ca24,stroke:#333,stroke-width:1px,color:#000
+    style D2 fill:#f9ca24,stroke:#333,stroke-width:1px,color:#000
+    style D3 fill:#f9ca24,stroke:#333,stroke-width:1px,color:#000
+
+    %% Industry nodes
+    style E1 fill:#6c5ce7,stroke:#333,stroke-width:1px,color:#fff
+    style E2 fill:#6c5ce7,stroke:#333,stroke-width:1px,color:#fff
+    style E3 fill:#6c5ce7,stroke:#333,stroke-width:1px,color:#fff
+
+    %% Category nodes
+    style F1 fill:#4ecdc4,stroke:#333,stroke-width:2px,color:#fff
+    style F2 fill:#45b7d1,stroke:#333,stroke-width:2px,color:#fff
+    style F3 fill:#f9ca24,stroke:#333,stroke-width:2px,color:#000
+    style F4 fill:#6c5ce7,stroke:#333,stroke-width:2px,color:#fff
+
+    %% Ultra-Thin Radial Branch Styling
     linkStyle default stroke-width:0.5px,stroke:#999
     linkStyle 0 stroke:#4ecdc4,stroke-width:0.5px
-    linkStyle 1 stroke:#45b7d1,stroke-width:0.5px
-    linkStyle 2 stroke:#f9ca24,stroke-width:0.5px
-    linkStyle 3 stroke:#6c5ce7,stroke-width:0.5px
-    linkStyle 4 stroke:#4ecdc4,stroke-width:0.5px
-    linkStyle 5 stroke:#4ecdc4,stroke-width:0.5px
-    linkStyle 6 stroke:#4ecdc4,stroke-width:0.5px
-    linkStyle 7 stroke:#45b7d1,stroke-width:0.5px
-    linkStyle 8 stroke:#45b7d1,stroke-width:0.5px
-    linkStyle 9 stroke:#45b7d1,stroke-width:0.5px
-    linkStyle 10 stroke:#f9ca24,stroke-width:0.5px
-    linkStyle 11 stroke:#f9ca24,stroke-width:0.5px
-    linkStyle 12 stroke:#f9ca24,stroke-width:0.5px
-    linkStyle 13 stroke:#6c5ce7,stroke-width:0.5px
-    linkStyle 14 stroke:#6c5ce7,stroke-width:0.5px
+    linkStyle 1 stroke:#4ecdc4,stroke-width:0.5px
+    linkStyle 2 stroke:#4ecdc4,stroke-width:0.5px
+    linkStyle 3 stroke:#45b7d1,stroke-width:0.5px
+    linkStyle 4 stroke:#45b7d1,stroke-width:0.5px
+    linkStyle 5 stroke:#45b7d1,stroke-width:0.5px
+    linkStyle 6 stroke:#f9ca24,stroke-width:0.5px
+    linkStyle 7 stroke:#f9ca24,stroke-width:0.5px
+    linkStyle 8 stroke:#f9ca24,stroke-width:0.5px
+    linkStyle 9 stroke:#6c5ce7,stroke-width:0.5px
+    linkStyle 10 stroke:#6c5ce7,stroke-width:0.5px
+    linkStyle 11 stroke:#6c5ce7,stroke-width:0.5px
+    linkStyle 12 stroke:#4ecdc4,stroke-width:0.5px
+    linkStyle 13 stroke:#45b7d1,stroke-width:0.5px
+    linkStyle 14 stroke:#f9ca24,stroke-width:0.5px
     linkStyle 15 stroke:#6c5ce7,stroke-width:0.5px
 ```
 
