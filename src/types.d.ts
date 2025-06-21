@@ -1,3 +1,5 @@
+/// <reference types="@cloudflare/workers-types" />
+
 declare module '*.json' {
   type Year = import('./worker').Year;
 

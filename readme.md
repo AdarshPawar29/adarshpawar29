@@ -23,9 +23,20 @@
   </picture>
 </a>
 <img src="data:null;," width="100%" height="0" align="left" alt="">
+<a href="https://www.linkedin.com/in/adarshpawar28">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://adarshpawar29.adarshpawar28.workers.dev/?section=link-linkedin&theme=dark">
+    <img src="https://adarshpawar29.adarshpawar28.workers.dev/?section=link-linkedin&theme=light&i=3" alt="visit my LinkedIn" width="100" height="18" align="left">
+  </picture>
+</a>
+<img src="data:null;," width="100%" height="0" align="left" alt="">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://adarshpawar29.adarshpawar28.workers.dev/?section=fallback&theme=dark">
   <img src="https://adarshpawar29.adarshpawar28.workers.dev/?section=fallback&theme=light" alt="" width="420" align="left">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://adarshpawar29.adarshpawar28.workers.dev/?section=projects&theme=dark">
+  <img src="https://adarshpawar29.adarshpawar28.workers.dev/?section=projects&theme=light" alt="Skills and Projects" width="100%" height="400" align="left">
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://adarshpawar29.adarshpawar28.workers.dev/?section=main&theme=dark">

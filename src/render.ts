@@ -555,3 +555,173 @@ export const fallback = (props: Props & { width: number }) => {
     viewbox: `0 0 ${props.width} ${props.height}`
   });
 };
+
+export const projects = (props: Props) => {
+  const styles = /*css*/ `
+    ${shared}
+
+    :root {
+      --size-height: ${props.height};
+    }
+
+    .wrapper {
+      padding: 20px;
+      font-size: 14px;
+      line-height: 1.6;
+    }
+
+    .section {
+      --delay: calc(var(--animate-in-copy-delay) + var(--section-delay, 0s));
+      margin-bottom: 24px;
+    }
+
+    .section:last-child {
+      margin-bottom: 0;
+    }
+
+    .section-title {
+      font-weight: 600;
+      font-size: 16px;
+      margin-bottom: 12px;
+      color: var(--color-text);
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+    }
+
+    .skills-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+      gap: 16px;
+      margin-bottom: 20px;
+    }
+
+    .skill-category {
+      margin-bottom: 12px;
+    }
+
+    .skill-category-title {
+      font-weight: 600;
+      color: var(--color-text);
+      margin-bottom: 6px;
+      font-size: 13px;
+    }
+
+    .skill-list {
+      font-size: 12px;
+      color: var(--color-text);
+      opacity: 0.8;
+    }
+
+    .projects-list {
+      margin-bottom: 16px;
+    }
+
+    .project {
+      margin-bottom: 16px;
+      padding-bottom: 12px;
+      border-bottom: 1px solid var(--color-dot-border);
+    }
+
+    .project:last-child {
+      border-bottom: none;
+      margin-bottom: 0;
+    }
+
+    .project-type {
+      font-weight: 600;
+      color: var(--color-text);
+      font-size: 12px;
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+      margin-bottom: 4px;
+    }
+
+    .project-name {
+      font-weight: 600;
+      color: var(--color-text);
+      margin-bottom: 4px;
+    }
+
+    .project-description {
+      font-size: 12px;
+      color: var(--color-text);
+      opacity: 0.8;
+      margin-bottom: 6px;
+    }
+
+    .project-url {
+      font-size: 11px;
+      color: var(--color-text);
+      opacity: 0.6;
+      text-decoration: none;
+    }
+  `;
+
+  const html = /*html*/ `
+    <main class="wrapper">
+      <div class="section fade-in" style="--section-delay: 0s;">
+        <div class="section-title">Programming</div>
+        <div class="skills-grid">
+          <div class="skill-category">
+            <div class="skill-category-title">5+ years</div>
+            <div class="skill-list">JavaScript • TypeScript • Node</div>
+          </div>
+          <div class="skill-category">
+            <div class="skill-category-title">4+ years</div>
+            <div class="skill-list">HTML5 • CSS3 • SCSS</div>
+          </div>
+        </div>
+        
+        <div class="skill-category">
+          <div class="skill-category-title">Frontend Frameworks</div>
+          <div class="skill-list">React • Next.js • Vue.js • Nuxt.js • Angular • Vuetify • Web Components</div>
+        </div>
+        
+        <div class="skill-category">
+          <div class="skill-category-title">Backend & Database</div>
+          <div class="skill-list">Node.js • Django • Django REST • PostgreSQL • TigerGraph • APIs</div>
+        </div>
+        
+        <div class="skill-category">
+          <div class="skill-category-title">Tools & Technologies</div>
+          <div class="skill-list">Git/Github • AWS • Webpack • Jest • Enzyme • NPM • HotJar • Sentry • Auth0 • Google Tags • Latex • Mathlive</div>
+        </div>
+        
+        <div class="skill-category">
+          <div class="skill-category-title">Specializations</div>
+          <div class="skill-list">WCAG Compliance • Accessibility (ARIA) • Scrum/Agile • EDI Solutions • Supply Chain Management • Educational Tech</div>
+        </div>
+      </div>
+
+      <div class="section fade-in" style="--section-delay: 0.5s;">
+        <div class="section-title">Personal Projects</div>
+        <div class="projects-list">
+          <div class="project">
+            <div class="project-type">NPM Package</div>
+            <div class="project-name">url-object-converter</div>
+            <div class="project-description">JavaScript library for serializing complex objects into URL-friendly query strings and parsing them back. Ideal for state sharing and bookmarkable URLs.</div>
+            <a href="https://www.npmjs.com/package/url-object-converter" class="project-url">npmjs.com/package/url-object-converter</a>
+          </div>
+          
+          <div class="project">
+            <div class="project-type">Web Application</div>
+            <div class="project-name">Digital Link Vault</div>
+            <div class="project-description">Personal link management web app for storing, organizing, and sharing favorite links with curated collections.</div>
+          </div>
+          
+          <div class="project">
+            <div class="project-type">Web Application</div>
+            <div class="project-name">Design System</div>
+            <div class="project-description">Interactive platform for visually crafting UI components with export/import configurations, promoting consistency and scalable design workflows.</div>
+            <a href="https://design-system-v8.vercel.app/" class="project-url">design-system-v8.vercel.app</a>
+          </div>
+        </div>
+      </div>
+    </main>
+  `;
+
+  return svg(styles, html, {
+    height: `${props.height}`,
+    'data-theme': `${props.theme}`
+  });
+};
