@@ -167,113 +167,25 @@ Active contributor to accessibility tools, educational tech, and supply chain ma
 
 <div align="center">
 
-<table>
-<tr>
-<td width="25%" align="center">
-<img src="https://img.shields.io/badge/Accessibility-♿-4CAF50?style=for-the-badge&labelColor=black&color=4CAF50"/>
-
-**🔍 Web Accessibility**
-
-- WCAG 2.1/2.2 Compliance
-- ARIA Implementation
-- Screen Reader Testing
-- Keyboard Navigation
-- Color Contrast Auditing
-
-</td>
-<td width="25%" align="center">
-<img src="https://img.shields.io/badge/Development-💻-2196F3?style=for-the-badge&labelColor=black&color=2196F3"/>
-
-**⚡ Full Stack Development**
-
-- Modern Frontend Frameworks
-- RESTful API Design
-- Database Architecture
-- Performance Optimization
-- Code Quality & Testing
-
-</td>
-<td width="25%" align="center">
-<img src="https://img.shields.io/badge/Methodologies-📋-FF9800?style=for-the-badge&labelColor=black&color=FF9800"/>
-
-**🚀 Agile Practices**
-
-- Scrum Master Experience
-- DevOps Integration
-- CI/CD Pipelines
-- Code Review Processes
-- Team Leadership
-
-</td>
-<td width="25%" align="center">
-<img src="https://img.shields.io/badge/Domains-🎯-9C27B0?style=for-the-badge&labelColor=black&color=9C27B0"/>
-
-**🏢 Industry Focus**
-
-- Educational Technology
-- Supply Chain Management
-- E-commerce Solutions
-- Healthcare Systems
-- Fintech Applications
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<div align="center">
-
-### 💡 Core Expertise Visualization
-
 ```mermaid
-graph TD
-    A[🎯 Adarsh Pawar] --> B[♿ Accessibility Expert]
-    A --> C[💻 Full-Stack Developer]
-    A --> D[📋 Agile Practitioner]
-    A --> E[🏢 Domain Specialist]
-
-    B --> B1[WCAG Compliance]
-    B --> B2[ARIA Standards]
-    B --> B3[Screen Readers]
-
-    C --> C1[React/Vue/Angular]
-    C --> C2[Node.js/Django]
-    C --> C3[PostgreSQL/MongoDB]
-
-    D --> D1[Scrum/Kanban]
-    D --> D2[DevOps/CI-CD]
-    D --> D3[Code Reviews]
-
-    E --> E1[EdTech Solutions]
-    E --> E2[Supply Chain]
-    E --> E3[E-commerce]
-
-    %% Node Styling
-    style A fill:#ff6b6b,stroke:#333,stroke-width:3px,color:#fff
-    style B fill:#4ecdc4,stroke:#333,stroke-width:2px,color:#fff
-    style C fill:#45b7d1,stroke:#333,stroke-width:2px,color:#fff
-    style D fill:#f9ca24,stroke:#333,stroke-width:2px,color:#000
-    style E fill:#6c5ce7,stroke:#333,stroke-width:2px,color:#fff
-
-    %% Link Styling - Thinner branches
-    linkStyle default stroke-width:1px
-    linkStyle 0 stroke:#4ecdc4,stroke-width:1px
-    linkStyle 1 stroke:#45b7d1,stroke-width:1px
-    linkStyle 2 stroke:#f9ca24,stroke-width:1px
-    linkStyle 3 stroke:#6c5ce7,stroke-width:1px
-    linkStyle 4 stroke:#4ecdc4,stroke-width:1px
-    linkStyle 5 stroke:#4ecdc4,stroke-width:1px
-    linkStyle 6 stroke:#4ecdc4,stroke-width:1px
-    linkStyle 7 stroke:#45b7d1,stroke-width:1px
-    linkStyle 8 stroke:#45b7d1,stroke-width:1px
-    linkStyle 9 stroke:#45b7d1,stroke-width:1px
-    linkStyle 10 stroke:#f9ca24,stroke-width:1px
-    linkStyle 11 stroke:#f9ca24,stroke-width:1px
-    linkStyle 12 stroke:#f9ca24,stroke-width:1px
-    linkStyle 13 stroke:#6c5ce7,stroke-width:1px
-    linkStyle 14 stroke:#6c5ce7,stroke-width:1px
-    linkStyle 15 stroke:#6c5ce7,stroke-width:1px
+mindmap
+  root((🎯 Adarsh Pawar))
+    ♿ Accessibility
+      WCAG Compliance
+      ARIA Standards
+      Screen Readers
+    💻 Full Stack
+      React/Vue/Angular
+      Node.js/Django
+      PostgreSQL/AWS
+    📋 Agile Practices
+      Scrum/Kanban
+      DevOps/CI-CD
+      Code Reviews
+    🏢 Industry Focus
+      EdTech Solutions
+      Supply Chain
+      E-commerce
 ```
 
 </div>
