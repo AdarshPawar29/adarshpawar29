@@ -227,83 +227,47 @@ Active contributor to accessibility tools, educational tech, and supply chain ma
 ### 💡 Core Expertise Visualization
 
 ```mermaid
-graph TD
-    %% Central node with radial branches
-    A((🎯 Adarsh Pawar))
+graph LR
+    %% Compact radial layout for mobile
+    A((🎯 AP))
+    
+    %% Core skills with shorter names
+    A --> B[♿ A11y]
+    A --> C[💻 Dev]
+    A --> D[📋 Agile]
+    A --> E[🏢 Domain]
+    
+    %% Key skills - compact
+    B --> B1[WCAG]
+    B --> B2[ARIA]
+    C --> C1[React]
+    C --> C2[Node]
+    D --> D1[Scrum]
+    D --> D2[DevOps]
+    E --> E1[EdTech]
+    E --> E2[Supply]
 
-    %% Top branches - Accessibility
-    A --> B1[WCAG Compliance]
-    A --> B2[ARIA Standards]
-    A --> B3[Screen Readers]
-
-    %% Right branches - Full Stack
-    A --> C1[React/Vue/Angular]
-    A --> C2[Node.js/Django]
-    A --> C3[PostgreSQL/AWS]
-
-    %% Bottom branches - Agile
-    A --> D1[Scrum/Kanban]
-    A --> D2[DevOps/CI-CD]
-    A --> D3[Code Reviews]
-
-    %% Left branches - Industry
-    A --> E1[EdTech Solutions]
-    A --> E2[Supply Chain]
-    A --> E3[E-commerce]
-
-    %% Additional skills radiating outward
-    A --> F1[♿ Accessibility Expert]
-    A --> F2[💻 Full-Stack Developer]
-    A --> F3[📋 Agile Practitioner]
-    A --> F4[🏢 Domain Specialist]
-
-    %% Node Styling - Central node prominent
-    style A fill:#ff6b6b,stroke:#333,stroke-width:4px,color:#fff
-
-    %% Accessibility nodes
-    style B1 fill:#4ecdc4,stroke:#333,stroke-width:1px,color:#fff
-    style B2 fill:#4ecdc4,stroke:#333,stroke-width:1px,color:#fff
-    style B3 fill:#4ecdc4,stroke:#333,stroke-width:1px,color:#fff
-
-    %% Full Stack nodes
-    style C1 fill:#45b7d1,stroke:#333,stroke-width:1px,color:#fff
-    style C2 fill:#45b7d1,stroke:#333,stroke-width:1px,color:#fff
-    style C3 fill:#45b7d1,stroke:#333,stroke-width:1px,color:#fff
-
-    %% Agile nodes
-    style D1 fill:#f9ca24,stroke:#333,stroke-width:1px,color:#000
-    style D2 fill:#f9ca24,stroke:#333,stroke-width:1px,color:#000
-    style D3 fill:#f9ca24,stroke:#333,stroke-width:1px,color:#000
-
-    %% Industry nodes
-    style E1 fill:#6c5ce7,stroke:#333,stroke-width:1px,color:#fff
-    style E2 fill:#6c5ce7,stroke:#333,stroke-width:1px,color:#fff
-    style E3 fill:#6c5ce7,stroke:#333,stroke-width:1px,color:#fff
-
-    %% Category nodes
-    style F1 fill:#4ecdc4,stroke:#333,stroke-width:2px,color:#fff
-    style F2 fill:#45b7d1,stroke:#333,stroke-width:2px,color:#fff
-    style F3 fill:#f9ca24,stroke:#333,stroke-width:2px,color:#000
-    style F4 fill:#6c5ce7,stroke:#333,stroke-width:2px,color:#fff
-
-    %% Ultra-Thin Radial Branch Styling
-    linkStyle default stroke-width:0.5px,stroke:#999
+    %% Compact styling
+    style A fill:#ff6b6b,stroke:#333,stroke-width:3px,color:#fff
+    style B fill:#4ecdc4,stroke:#333,stroke-width:1px,color:#fff
+    style C fill:#45b7d1,stroke:#333,stroke-width:1px,color:#fff
+    style D fill:#f9ca24,stroke:#333,stroke-width:1px,color:#000
+    style E fill:#6c5ce7,stroke:#333,stroke-width:1px,color:#fff
+    
+    %% Ultra-thin branches for clean look
+    linkStyle default stroke-width:0.5px
     linkStyle 0 stroke:#4ecdc4,stroke-width:0.5px
-    linkStyle 1 stroke:#4ecdc4,stroke-width:0.5px
-    linkStyle 2 stroke:#4ecdc4,stroke-width:0.5px
-    linkStyle 3 stroke:#45b7d1,stroke-width:0.5px
-    linkStyle 4 stroke:#45b7d1,stroke-width:0.5px
-    linkStyle 5 stroke:#45b7d1,stroke-width:0.5px
-    linkStyle 6 stroke:#f9ca24,stroke-width:0.5px
-    linkStyle 7 stroke:#f9ca24,stroke-width:0.5px
+    linkStyle 1 stroke:#45b7d1,stroke-width:0.5px
+    linkStyle 2 stroke:#f9ca24,stroke-width:0.5px
+    linkStyle 3 stroke:#6c5ce7,stroke-width:0.5px
+    linkStyle 4 stroke:#4ecdc4,stroke-width:0.5px
+    linkStyle 5 stroke:#4ecdc4,stroke-width:0.5px
+    linkStyle 6 stroke:#45b7d1,stroke-width:0.5px
+    linkStyle 7 stroke:#45b7d1,stroke-width:0.5px
     linkStyle 8 stroke:#f9ca24,stroke-width:0.5px
-    linkStyle 9 stroke:#6c5ce7,stroke-width:0.5px
+    linkStyle 9 stroke:#f9ca24,stroke-width:0.5px
     linkStyle 10 stroke:#6c5ce7,stroke-width:0.5px
     linkStyle 11 stroke:#6c5ce7,stroke-width:0.5px
-    linkStyle 12 stroke:#4ecdc4,stroke-width:0.5px
-    linkStyle 13 stroke:#45b7d1,stroke-width:0.5px
-    linkStyle 14 stroke:#f9ca24,stroke-width:0.5px
-    linkStyle 15 stroke:#6c5ce7,stroke-width:0.5px
 ```
 
 </div>
